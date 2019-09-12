@@ -1,0 +1,54 @@
+TerrainBiomeLookupTable:
+  # keys to remove from in-memory structure when this file is loaded
+  remove: [] 
+  # elements to add from in-memory structure when this file is loaded
+  add:
+    WaterSandStone:
+    - content: SandStone
+      bandSize: 0.02
+      overrides:
+        massOverride: 1500 #1000
+    - content: IronOre
+      bandSize: 0.02
+      overrides:
+        massOverride: 800 #800
+    - content: Dirt
+      bandSize: 0.03
+      overrides:
+        massOverride: 1500 #1840
+    - content: Water
+      bandSize: 0.03
+    - content: Carbon
+      bandSize: 0.03
+      overrides:
+        massOverride: 1100 #600
+    - content: Algae
+      bandSize: 0.03
+      overrides:
+        massOverride: 1100 #200
+    WaterSedimentary:
+    - content: SandStone
+      bandSize: 0.02
+      overrides:
+        massOverride: 1500 #1000
+    - content: IronOre
+      bandSize: 0.02
+      overrides:
+        massOverride: 800 #800
+    - content: Carbon
+      bandSize: 0.03
+      overrides:
+        massOverride: 1100 #600
+    - content: Algae
+      bandSize: 0.02
+      overrides:
+        massOverride: 800 #200
+    - content: Water
+      bandSize: 0.03
+    - content: Dirt
+      bandSize: 0.03
+      overrides:
+        massOverride: 1500 #1840
+    Surface:
+    - content: Vacuum
+      bandSize: 0.1

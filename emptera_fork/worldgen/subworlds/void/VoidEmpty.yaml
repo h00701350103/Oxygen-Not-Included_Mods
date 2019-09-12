@@ -1,0 +1,21 @@
+biomeNoise: noise/subworldFrozen
+temperatureRange: VeryCold
+minChildCount: 1
+density:
+  min: 70
+  max: 70
+avoidRadius: 50.0
+sampleBehaviour: PoissonDisk
+biomes:
+  - name: biomes/Misc/Space
+    weight: 1
+    tags:
+    #overrides:
+    #  massMultiplier: 50
+pointsOfInterest:
+tags:
+  - IgnoreCaveOverride
+# - ErodePointToBorderInv
+  - ErodePointToWorldTop
+  - NoGlobalFeatureSpawning
+zoneType: Space

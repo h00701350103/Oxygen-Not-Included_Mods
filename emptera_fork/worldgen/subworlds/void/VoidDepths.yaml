@@ -1,0 +1,21 @@
+biomeNoise: noise/Generic
+temperatureRange: VeryCold
+minChildCount: 1
+density:
+  min: 35
+  max: 45
+avoidRadius: 50.0
+sampleBehaviour: PoissonDisk
+biomes:
+  - name: biomes/Misc/Space
+    weight: 1
+
+tags:
+  - IgnoreCaveOverride
+  - NoGlobalFeatureSpawning
+featureTemplates:
+    feature_void_geyser_big_volcano: 2
+    feature_void_vacillator: 2
+    void_oilwell: 4
+
+zoneType: Space

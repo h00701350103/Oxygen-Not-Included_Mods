@@ -1,0 +1,67 @@
+name: STRINGS.WORLDS.EMPTERA.NAME
+description: STRINGS.WORLDS.EMPTERA.DESCRIPTION
+spriteName: Asteroid_Emptera
+coordinatePrefix: EMP-PHO
+difficulty: 1
+tier: 1
+disableWorldTraits: true
+
+worldsize:
+  X: 256
+  Y: 256
+layoutMethod: PowerTree # Note: We need to add weights to the items in the layer
+#                                in order to use this.
+
+# List all the zone files to load
+subworldFiles:
+  - name: subworlds/void/VoidStart
+    weight: 1.5
+  - name: subworlds/Impenetrable
+  - name: subworlds/void/VoidGlobalFeatures
+  - name: subworlds/void/VoidDepths
+  - name: subworlds/void/VoidEmpty
+
+
+startSubworldName: subworlds/void/VoidStart
+startingBaseTemplate: voidBase
+
+globalFeatureTemplates:
+  feature_void_geyser_generic: 8
+  feature_void_geyser_chlorine_gas: 1
+  feature_void_geyser_salt_water: 1
+  feature_void_geyser_polluted_water: 1
+  feature_void_geyser_natural_gas: 1
+
+# Rivers:
+#   - water
+#   - fatWater
+#   - oilygoodness
+
+# When we are converting unknown cells, this will give us the options, processed in this order, the effects are cumlative
+unknownCellsAllowedSubworlds: 
+  - tagcommand: Default
+    command: Replace
+    subworldNames:
+      - subworlds/void/VoidStart
+
+  - tagcommand: DistanceFromTag
+    tag: AtStart
+    minDistance: 1
+    maxDistance: 999
+    command: Replace
+    subworldNames:
+      - subworlds/void/VoidGlobalFeatures
+
+  - tagcommand: AtTag
+    tag: AtDepths
+    command: Replace
+    subworldNames:
+      - subworlds/void/VoidDepths
+
+  - tagcommand: DistanceFromTag
+    tag: AtSurface
+    minDistance: 0
+    maxDistance: 1
+    command: Replace
+    subworldNames:
+      - subworlds/void/VoidEmpty
