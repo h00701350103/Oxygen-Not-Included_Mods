@@ -7,6 +7,7 @@ This is a fork of Pholith's very good Emptera mod: https://steamcommunity.com/sh
 
 A custom config for the mod Care Package Manager is supplied, and is *required* in order to gain access to further resources and establish a sustainable base. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1833878154  
 You should also use the No Leaky Walls mod by Cairath, this is required for airflow and mesh tiles in the vacuum of space, but also makes it easier to waste less resources when rebuilding. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1766302971
+The Synchronized Telepad mod is also very nice: https://steamcommunity.com/sharedfiles/filedetails/?id=1845654469
 
 WARNING: This is a *hard* map. If you've never played on increased hunger you'll likely struggle, and you will need to keep track of resource usage of pretty much everything and figure out how to best utilize your tools at hand. If you need tips&tricks read the rest of this readme and SPOILERS.md
 
