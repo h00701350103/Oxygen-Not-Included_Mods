@@ -1,21 +1,21 @@
 # jakkdl's Oxygen Not Included mods
 
 ## Emptera Fork/Void [WIP]
-**The Care Package Manager config was incorrectly uploaded and is currently unavailable. Mod unusable unless you write your own or use debug.**
+**The Care Package Manager config was incorrectly uploaded and is currently unavailable. Map unplayable unless you write your own or use debug to spawn resources.**
 
 This is a fork of Pholith's very good Emptera mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1825146346 and inspired by the Minecraft mod Skyblock and Factorio's Seablock.
 
 A custom config for the mod Care Package Manager is supplied, and is *required* in order to gain access to further resources and establish a sustainable base. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1833878154  
-You should also use the No Leaky Walls mod by Cairath, this is required for airflow and mesh tiles, but also makes it easier to waste less resources when rebuilding. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1766302971
+You should also use the No Leaky Walls mod by Cairath, this is required for airflow and mesh tiles in the vacuum of space, but also makes it easier to waste less resources when rebuilding. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1766302971
 
 WARNING: This is a *hard* map. If you've never played on increased hunger you'll likely struggle, and you will need to keep track of resource usage of pretty much everything and figure out how to best utilize your tools at hand. If you need tips&tricks read the rest of this readme and SPOILERS.md
 
-Gameplay idea is that you start out in a minimal, barren, biome, with the bare necessities in terms of resources (Raw minerals (mostly sandstone), iron ore, algae, coal and water. To gain access to seeds, critter eggs and other resources (e.g. slime, bleach stone, lead...) the available care packages from the printer are completely overhauled with. Late game packages are gated by cycle count so you're guaranteed to get useful ones early game (e.g. mealwood seeds) and some early packages are unavailable late (e.g. mealwood seeds). There's several guaranteed geysers to supply resources impossible to get elsewhere.
+Gameplay idea is that you start out in a minimal, barren, biome, with the bare necessities in terms of resources: raw minerals (mostly sandstone), iron ore, algae, coal and water. To gain access to seeds, critter eggs and other resources (e.g. slime, bleach stone, lead...) the available care packages from the printer are completely overhauled. Late game packages are gated by cycle count so you're guaranteed to get useful ones early game (e.g. mealwood seeds) and some early packages are unavailable late (e.g. mealwood seeds). There's several guaranteed geysers to supply resources impossible to get elsewhere.
 There's also meteors raining down on you from the start, which is both a threat to manage but also gives access to valuable resources!
 
-Differences from original Emptera:
-* Starting biome completely rewritten. No access to any seeds or critters, the biome is smaller, but with careful biome tweaking and mass overrides there should be enough resources until you can get them from new sources.
-* POI's/bunkers with minerals, seeds and critters removed.
+Differences from Pholith's Emptera:
+* Starting biome completely rewritten. No access to any seeds or critters. The biome is smaller, but with careful biome tweaking and mass overrides there should be enough resources until you can get them from new sources.
+* POIs/bunkers with minerals, seeds and critters removed.
 * Space layer and Gravitas monument removed.
 * Several different useful geysers guaranteed.
 * All templates completely rewritten with different resources.
@@ -27,4 +27,4 @@ Differences from original Emptera:
 
 Big thanks to Pholith for inspiration, early guidance, and modding help.
 
-See the SPOILERS.md file for implementation details as well as tips & tricks if your're struggling with the map, but I recommend going in blind and figuring out everything as you go along for the best experience!
+See the SPOILERS.md file for implementation details as well as tips & tricks if you're struggling with the map, but I recommend going in blind and figuring out everything as you go along (and fail repeatedly) for the best experience!
