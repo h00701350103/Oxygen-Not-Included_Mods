@@ -1,0 +1,281 @@
+{
+	"version": 5,
+	"enabled": true,
+	"biggerRoster": true,
+	"multiplier": 1.0,
+	"rosterIsOrdered": true,
+	"CarePackages": [
+
+
+
+
+
+
+
+
+
+
+
+		{
+			"ID": "FieldRation",
+			"amount": 10.0,
+			"onlyAfterCycle": 0,
+			"onlyUntilCycle": 20
+		},
+
+		{
+			"ID": "BasicSingleHarvestPlantSeed",
+			"amount": 10.0,
+			"onlyAfterCycle": 0,
+			"onlyUntilCycle": 20
+		},
+		{
+			"ID": "PrickleFlowerSeed",
+			"amount": 5.0,
+			"onlyAfterCycle": 0
+		},
+		{
+			"ID": "HatchEgg",
+			"amount": 3.0,
+			"onlyAfterCycle": 0
+		},
+
+
+
+
+		{
+			"ID": "ForestTreeSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 20
+		},
+		{
+			"ID": "MushroomSeed",
+			"amount": 5.0,
+			"onlyAfterCycle": 20
+		},
+
+		{
+			"ID": "BasicFabricMaterialPlantSeed",
+			"amount": 2.0,
+			"onlyAfterCycle": 20
+		},
+		{
+			"ID": "PrickleGrassSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 20
+		},
+		{
+			"ID": "ColdBreatherSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 20
+		},
+		{
+			"ID": "OxyfernSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 20
+		},
+
+
+
+		{
+			"ID": "SquirrelEgg",
+			"amount": 3.0,
+			"onlyAfterCycle": 20
+		},
+		{
+			"ID": "PacuEgg",
+			"amount": 3.0,
+			"onlyAfterCycle": 20
+		},
+		{
+			"ID": "LightBugEgg",
+			"amount": 3.0,
+			"onlyAfterCycle": 20
+		},
+		{
+			"ID": "PuftEgg",
+			"amount": 3.0,
+			"onlyAfterCycle": 20
+		},
+		{
+			"ID": "DreckoEgg",
+			"amount": 3.0,
+			"onlyAfterCycle": 20
+		},
+
+
+
+		{
+			"ID": "SlimeMold",
+			"amount": 5000.0,
+			"onlyAfterCycle": 20
+		},
+		{
+			"ID": "BleachStone",
+			"amount": 5000.0,
+			"onlyAfterCycle": 20
+		},
+		{
+			"ID": "Dirt",
+			"amount": 5000.0,
+			"onlyAfterCycle": 20
+		},
+
+
+
+
+
+		{
+			"ID": "ColdWheatSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "SeaLettuceSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "SaltPlantSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "BeanPlantSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "SwampLilySeed",
+			"amount": 2.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "SpiceVineSeed",
+			"amount": 2.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "EvilFlowerSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "CrabEgg",
+			"amount": 1.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "OilfloaterEgg",
+			"amount": 3.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "MoleEgg",
+			"amount": 3.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "LeafyPlantSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "CactusPlantSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "BulbPlantSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 40
+		},
+
+
+		{
+			"ID": "Rust",
+			"amount": 10000.0,
+			"onlyAfterCycle": 40
+		},
+		{
+			"ID": "Lead",
+			"amount": 2000.0,
+			"onlyAfterCycle": 40
+		},
+
+
+
+		{
+			"ID": "SandStone",
+			"amount": 10000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "Obsidian",
+			"amount": 10000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "Granite",
+			"amount": 10000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "SedimentaryRock",
+			"amount": 10000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "Clay",
+			"amount": 10000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "Algae",
+			"amount": 5000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "Katairite",
+			"amount": 5000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "Diamond",
+			"amount": 5000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "Cuprite",
+			"amount": 5000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "GoldAmalgam",
+			"amount": 5000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "AluminumOre",
+			"amount": 5000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "IronOre",
+			"amount": 5000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "Wolframite",
+			"amount": 5000.0,
+			"onlyAfterCycle": 80
+		},
+
+
+		{
+			"ID": "GeneShufflerRecharge",
+			"amount": 1.0,
+			"onlyAfterCycle": 100
+		}
+	]
+}
