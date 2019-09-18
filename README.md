@@ -1,8 +1,6 @@
 # jakkdl's Oxygen Not Included mods
 
 ## Emptera Fork/Void [WIP]
-**The Care Package Manager config was incorrectly uploaded and is currently unavailable. Map unplayable unless you write your own or use debug to spawn resources.**
-
 This is a fork of Pholith's very good Emptera mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1825146346 and inspired by the Minecraft mod Skyblock and Factorio's Seablock.
 
 A custom config for the mod Care Package Manager is supplied, and is *required* in order to gain access to further resources and establish a sustainable base. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1833878154  
