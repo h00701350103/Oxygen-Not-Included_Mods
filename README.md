@@ -4,10 +4,12 @@
 This is a fork of Pholith's very good Emptera mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1825146346 and inspired by the Minecraft mod Skyblock and Factorio's Seablock.
 
 A custom config for the mod Care Package Manager is supplied, and is *required* in order to gain access to further resources and establish a sustainable base. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1833878154  
-You should also use the No Leaky Walls mod by Cairath, this is required for airflow and mesh tiles in the vacuum of space, but also makes it easier to waste less resources when rebuilding. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1766302971
+Copy the config file and place it in your mods/ folder.
+
+You should also use the No Leaky Walls mod by Cairath, this is required for airflow and mesh tiles in the vacuum of space, but also makes it easier to waste less resources when rebuilding. Link: https://steamcommunity.com/sharedfiles/filedetails/?id=1766302971  
 The Synchronized Telepad mod is also very nice: https://steamcommunity.com/sharedfiles/filedetails/?id=1845654469
 
-WARNING: This is a *hard* map. If you've never played on increased hunger you'll likely struggle, and you will need to keep track of resource usage of pretty much everything and figure out how to best utilize your tools at hand. If you need tips&tricks read the rest of this readme and SPOILERS.md
+WARNING: This is a *hard* map. you will need to keep track of resource usage of pretty much everything and figure out how to best utilize your tools at hand. If you need tips&tricks read the rest of this readme and SPOILERS.md
 
 Gameplay idea is that you start out in a minimal, barren, biome, with the bare necessities in terms of resources: raw minerals (mostly sandstone), iron ore, algae, coal and water. To gain access to seeds, critter eggs and other resources (e.g. slime, bleach stone, lead...) the available care packages from the printer are completely overhauled. Late game packages are gated by cycle count so you're guaranteed to get useful ones early game (e.g. mealwood seeds) and some early packages are unavailable late (e.g. mealwood seeds). There's several guaranteed geysers to supply resources impossible to get elsewhere.
 There's also meteors raining down on you from the start, which is both a threat to manage but also gives access to valuable resources!
