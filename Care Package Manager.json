@@ -18,7 +18,7 @@
 
 		{
 			"ID": "FieldRation",
-			"amount": 10.0,
+			"amount": 12.0,
 			"onlyAfterCycle": 0,
 			"onlyUntilCycle": 20
 		},
@@ -31,7 +31,7 @@
 		},
 		{
 			"ID": "PrickleFlowerSeed",
-			"amount": 5.0,
+			"amount": 6.0,
 			"onlyAfterCycle": 0
 		},
 		{
@@ -222,6 +222,11 @@
 		},
 		{
 			"ID": "SedimentaryRock",
+			"amount": 10000.0,
+			"onlyAfterCycle": 80
+		},
+		{
+			"ID": "MaficRock",
 			"amount": 10000.0,
 			"onlyAfterCycle": 80
 		},
