@@ -11,10 +11,10 @@ sampleBehaviour: UniformCircle
 borderOverride: rocky
 
 biomes:
-  - name: biomes/Void/WaterSandStone
-    weight: 2
-  - name: biomes/Void/WaterSedimentary
-    weight: 2
+  - name: biomes/Void/DirtAlgae
+    weight: 1
+  - name: biomes/Void/WaterCarbon
+    weight: 1
 
 
 tags:

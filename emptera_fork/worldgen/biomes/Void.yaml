@@ -3,10 +3,11 @@ TerrainBiomeLookupTable:
   remove: [] 
   # elements to add from in-memory structure when this file is loaded
   add:
-    WaterSandStone:
+    DirtAlgae:
     - content: SandStone
       bandSize: 0.02
       overrides:
+        temperatureOverride: 403
         massOverride: 1500 #1000
     - content: IronOre
       bandSize: 0.02
@@ -15,40 +16,42 @@ TerrainBiomeLookupTable:
     - content: Dirt
       bandSize: 0.03
       overrides:
-        massOverride: 1500 #1840
-    - content: Water
-      bandSize: 0.03
-    - content: Carbon
-      bandSize: 0.03
-      overrides:
-        massOverride: 1100 #600
-    - content: Algae
-      bandSize: 0.03
-      overrides:
-        massOverride: 1100 #200
-    WaterSedimentary:
-    - content: SandStone
-      bandSize: 0.02
-      overrides:
-        massOverride: 1500 #1000
-    - content: IronOre
-      bandSize: 0.02
-      overrides:
-        massOverride: 800 #800
-    - content: Carbon
-      bandSize: 0.03
-      overrides:
-        massOverride: 1100 #600
+        massOverride: 1300 #1840
     - content: Algae
       bandSize: 0.02
       overrides:
         massOverride: 800 #200
     - content: Water
+      bandSize: 0.015
+    - content: Carbon
       bandSize: 0.03
+      overrides:
+        massOverride: 1100 #600
+    WaterCarbon:
+    - content: SandStone
+      bandSize: 0.02
+      overrides:
+        massOverride: 1500 #1000
+    - content: IronOre
+      bandSize: 0.02
+      overrides:
+        massOverride: 800 #800
+    - content: Water
+      bandSize: 0.015
+      overrides:
+        massOverride: 900 #1000
+    - content: Carbon
+      bandSize: 0.03
+      overrides:
+        massOverride: 1000 #600
     - content: Dirt
       bandSize: 0.03
       overrides:
         massOverride: 1500 #1840
+    - content: Algae
+      bandSize: 0.02
+      overrides:
+        massOverride: 800 #200
     Surface:
     - content: Vacuum
       bandSize: 0.1
