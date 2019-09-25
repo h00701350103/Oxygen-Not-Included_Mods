@@ -7,350 +7,350 @@ info:
 cells:
 - element: SandStone
   mass: 1800
-  temperature: 287.260803
+  temperature: 300
   location_x: -3
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 291.957123
+  temperature: 300
   location_x: -2
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 293.966766
+  temperature: 300
   location_x: -1
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 294.976501
+  temperature: 300
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 295.072601
+  temperature: 300
   location_x: 1
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 294.399567
+  temperature: 300
   location_x: 2
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 292.021545
+  temperature: 300
   location_x: 3
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 287.812836
+  temperature: 300
   location_x: 4
   location_y: -2
 - element: SandStone
   mass: 1000
-  temperature: 250.5867
+  temperature: 300
   location_x: -4
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -3
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -2
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -1
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 1
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 2
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 3
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 4
   location_y: -1
 - element: SandStone
   mass: 1000
-  temperature: 250.320602
+  temperature: 300
   location_x: 5
   location_y: -1
 - element: SandStone
   mass: 1000
-  temperature: 248.297928
+  temperature: 300
   location_x: -4
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -3
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 3
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 4
 - element: SandStone
   mass: 1000
-  temperature: 248.412949
+  temperature: 300
   location_x: 5
 - element: SandStone
   mass: 1000
-  temperature: 249.158768
+  temperature: 300
   location_x: -3
   location_y: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -2
   location_y: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -1
   location_y: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_y: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 1
   location_y: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 2
   location_y: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 3
   location_y: 1
 - element: SandStone
   mass: 1000
-  temperature: 249.27005
+  temperature: 300
   location_x: 4
   location_y: 1
 - element: SandStone
   mass: 1000
-  temperature: 251.982407
+  temperature: 300
   location_x: -2
   location_y: 2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -1
   location_y: 2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_y: 2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 1
   location_y: 2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 2
   location_y: 2
 - element: OxyRock
   mass: 400
-  temperature: 251.936508
+  temperature: 300
   location_x: 3
   location_y: 2
 - element: SandStone
   mass: 1800
-  temperature: 293.218048
+  temperature: 300
   location_x: -1
   location_y: 3
 - element: SandStone
   mass: 1800
-  temperature: 294.81308
+  temperature: 300
   location_y: 3
 - element: SandStone
   mass: 1800
-  temperature: 294.722626
+  temperature: 300
   location_x: 1
   location_y: 3
 - element: OxyRock
   mass: 400
-  temperature: 293.613831
+  temperature: 300
   location_x: 2
   location_y: 3
 - element: OxyRock
   mass: 400
-  temperature: 293.613831
+  temperature: 300
   location_x: 3
   location_y: 3
 - element: SandStone
   mass: 1800
-  temperature: 292.021545
+  temperature: 300
   location_x: 3
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 294.399567
+  temperature: 300
   location_x: 2
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 295.072601
+  temperature: 300
   location_x: 1
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 294.976501
+  temperature: 300
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 293.966766
+  temperature: 300
   location_x: -1
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 291.957123
+  temperature: 300
   location_x: -2
   location_y: -2
 - element: SandStone
   mass: 1800
-  temperature: 287.812836
+  temperature: 300
   location_x: 4
   location_y: -2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -1
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 1
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 2
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -1
   location_y: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_y: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 1
   location_y: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 2
   location_y: 1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -1
   location_y: 2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_y: 2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 1
   location_y: 2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: 2
   location_y: 2
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -3
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -2
   location_y: -1
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -3
 - element: Oxygen
   mass: 2
-  temperature: 295
+  temperature: 300
   location_x: -2
 - element: SandStone
   mass: 1800
-  temperature: 287.260803
+  temperature: 300
   location_x: -3
   location_y: -2
 buildings:
@@ -358,7 +358,7 @@ buildings:
   location_x: 3
   location_y: -2
   element: SandStone
-  temperature: 292.021545
+  temperature: 300
   storage: []
   rottable: {}
   amounts: []
@@ -367,7 +367,7 @@ buildings:
   location_x: 2
   location_y: -2
   element: SandStone
-  temperature: 294.399567
+  temperature: 300
   storage: []
   rottable: {}
   amounts: []
@@ -376,7 +376,7 @@ buildings:
   location_x: 1
   location_y: -2
   element: SandStone
-  temperature: 295.072601
+  temperature: 300
   storage: []
   rottable: {}
   amounts: []
@@ -384,7 +384,7 @@ buildings:
 - id: Tile
   location_y: -2
   element: SandStone
-  temperature: 294.976501
+  temperature: 300
   storage: []
   rottable: {}
   amounts: []
@@ -393,7 +393,7 @@ buildings:
   location_x: -1
   location_y: -2
   element: SandStone
-  temperature: 293.966766
+  temperature: 300
   storage: []
   rottable: {}
   amounts: []
@@ -402,7 +402,7 @@ buildings:
   location_x: -2
   location_y: -2
   element: SandStone
-  temperature: 291.957123
+  temperature: 300
   storage: []
   rottable: {}
   amounts: []
@@ -411,7 +411,7 @@ buildings:
   location_x: 4
   location_y: -2
   element: SandStone
-  temperature: 287.812836
+  temperature: 300
   storage: []
   rottable: {}
   amounts: []
@@ -419,7 +419,7 @@ buildings:
 - id: Headquarters
   location_y: -1
   element: IronOre
-  temperature: 295
+  temperature: 300
   storage: []
   rottable: {}
   amounts: []
@@ -428,12 +428,12 @@ buildings:
   location_x: -3
   location_y: -1
   element: SedimentaryRock
-  temperature: 295
+  temperature: 300
   storage:
   - id: FieldRation
     element: Creature
     units: 40
-    temperature: 294.682983
+    temperature: 300
     rottable: {}
   rottable: {}
   amounts: []
@@ -442,7 +442,7 @@ buildings:
   location_x: -3
   location_y: -2
   element: SandStone
-  temperature: 287.260803
+  temperature: 300
   storage: []
   rottable: {}
   amounts: []
