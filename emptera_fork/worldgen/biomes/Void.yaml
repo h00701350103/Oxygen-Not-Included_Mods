@@ -23,6 +23,8 @@ TerrainBiomeLookupTable:
         massOverride: 800 #200
     - content: Water
       bandSize: 0.015
+      overrides:
+        massOverride: 1100 #1000
     - content: Carbon
       bandSize: 0.03
       overrides:
