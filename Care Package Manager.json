@@ -7,22 +7,68 @@
 	"CarePackages": [
 		{
 			"ID": "FieldRation",
-			"amount": 12.0,
+			"amount": 13.0,
 			"onlyAfterCycle": 0,
-			"onlyUntilCycle": 20
+			"onlyUntilCycle": 9
 		},
-
+		{
+			"ID": "FieldRation",
+			"amount": 7.0,
+			"onlyAfterCycle": 10,
+			"onlyUntilCycle": 19
+		},
 		{
 			"ID": "BasicSingleHarvestPlantSeed",
 			"amount": 10.0,
 			"onlyAfterCycle": 0,
-			"onlyUntilCycle": 20
+			"onlyUntilCycle": 9
 		},
+		{
+			"ID": "BasicSingleHarvestPlantSeed",
+			"amount": 5.0,
+			"onlyAfterCycle": 10,
+			"onlyUntilCycle": 19
+		},
+
+
 		{
 			"ID": "PrickleFlowerSeed",
 			"amount": 6.0,
-			"onlyAfterCycle": 0
+			"onlyAfterCycle": 0,
+			"onlyUntilCycle": 9
 		},
+		{
+			"ID": "PrickleFlowerSeed",
+			"amount": 5.0,
+			"onlyAfterCycle": 10,
+			"onlyUntilCycle": 19
+		},
+		{
+			"ID": "PrickleFlowerSeed",
+			"amount": 4.0,
+			"onlyAfterCycle": 20,
+			"onlyUntilCycle": 29
+		},
+		{
+			"ID": "PrickleFlowerSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 30,
+			"onlyUntilCycle": 39
+		},
+		{
+			"ID": "PrickleFlowerSeed",
+			"amount": 2.0,
+			"onlyAfterCycle": 40,
+			"onlyUntilCycle": 49
+		},
+		{
+			"ID": "PrickleFlowerSeed",
+			"amount": 1.0,
+			"onlyAfterCycle": 50,
+			"onlyUntilCycle": 59
+		},
+
+
 		{
 			"ID": "HatchEgg",
 			"amount": 3.0,
@@ -32,22 +78,65 @@
 
 
 
+
+
 		{
 			"ID": "ForestTreeSeed",
 			"amount": 3.0,
-			"onlyAfterCycle": 20
+			"onlyAfterCycle": 20,
+			"onlyUntilCycle": 49
 		},
+		{
+			"ID": "ForestTreeSeed",
+			"amount": 2.0,
+			"onlyAfterCycle": 50,
+			"onlyUntilCycle": 79
+		},
+		{
+			"ID": "ForestTreeSeed",
+			"amount": 1.0,
+			"onlyAfterCycle": 80,
+			"onlyUntilCycle": 109
+		},
+
 		{
 			"ID": "MushroomSeed",
 			"amount": 5.0,
-			"onlyAfterCycle": 20
+			"onlyAfterCycle": 20,
+			"onlyUntilCycle": 49
+		},
+		{
+			"ID": "MushroomSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 50,
+			"onlyUntilCycle": 79
+		},
+		{
+			"ID": "MushroomSeed",
+			"amount": 1.0,
+			"onlyAfterCycle": 80,
+			"onlyUntilCycle": 109
 		},
 
 		{
 			"ID": "BasicFabricMaterialPlantSeed",
-			"amount": 2.0,
-			"onlyAfterCycle": 20
+			"amount": 3.0,
+			"onlyAfterCycle": 20,
+			"onlyUntilCycle": 49
 		},
+		{
+			"ID": "BasicFabricMaterialPlantSeed",
+			"amount": 2.0,
+			"onlyAfterCycle": 50,
+			"onlyUntilCycle": 79
+		},
+		{
+			"ID": "BasicFabricMaterialPlantSeed",
+			"amount": 1.0,
+			"onlyAfterCycle": 80,
+			"onlyUntilCycle": 109
+		},
+
 		{
 			"ID": "PrickleGrassSeed",
 			"amount": 3.0,
@@ -122,22 +211,74 @@
 		{
 			"ID": "SeaLettuceSeed",
 			"amount": 3.0,
-			"onlyAfterCycle": 40
+			"onlyAfterCycle": 40,
+			"onlyUntilCycle": 69
+		},
+		{
+			"ID": "SeaLettuceSeed",
+			"amount": 2.0,
+			"onlyAfterCycle": 70,
+			"onlyUntilCycle": 99
+		},
+		{
+			"ID": "SeaLettuceSeed",
+			"amount": 1.0,
+			"onlyAfterCycle": 100,
+			"onlyUntilCycle": 129
 		},
 		{
 			"ID": "SaltPlantSeed",
 			"amount": 3.0,
-			"onlyAfterCycle": 40
+			"onlyAfterCycle": 40,
+			"onlyUntilCycle": 69
+		},
+		{
+			"ID": "SaltPlantSeed",
+			"amount": 2.0,
+			"onlyAfterCycle": 70,
+			"onlyUntilCycle": 99
+		},
+		{
+			"ID": "SaltPlantSeed",
+			"amount": 1.0,
+			"onlyAfterCycle": 100,
+			"onlyUntilCycle": 129
+		},
+		{
+			"ID": "SwampLilySeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 40,
+			"onlyUntilCycle": 69
 		},
 		{
 			"ID": "SwampLilySeed",
 			"amount": 2.0,
-			"onlyAfterCycle": 40
+			"onlyAfterCycle": 70,
+			"onlyUntilCycle": 99
+		},
+		{
+			"ID": "SwampLilySeed",
+			"amount": 1.0,
+			"onlyAfterCycle": 100,
+			"onlyUntilCycle": 129
+		},
+		{
+			"ID": "SpiceVineSeed",
+			"amount": 3.0,
+			"onlyAfterCycle": 40,
+			"onlyUntilCycle": 69
 		},
 		{
 			"ID": "SpiceVineSeed",
 			"amount": 2.0,
-			"onlyAfterCycle": 40
+			"onlyAfterCycle": 70,
+			"onlyUntilCycle": 99
+		},
+		{
+			"ID": "SpiceVineSeed",
+			"amount": 1.0,
+			"onlyAfterCycle": 100,
+			"onlyUntilCycle": 129
 		},
 		{
 			"ID": "CrabEgg",
